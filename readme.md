@@ -16,7 +16,7 @@ Welcome, here you find code challenges for Javascript language from CodeWars.com
 
 * `Function 1 - hello world` || [`Function_1_hello_world.js`  ](/Code-Py/Function_1_hello_world.js) Site [CodeWars, js  ](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/javascript)
 
-* `Sentence Smash` || [`Sentence Smash.js`  ](/Code-Py/Sentence Smash.js) Site [CodeWars, js  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript)
+* `Sentence Smash` || [`Sentence_Smash.js`  ](/Code-Py/Sentence_Smash.js) Site [CodeWars, js  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript)
 
 * `Reversed Strings` || [`Reversed_Strings.js`  ](/Code-Py/Reversed_Strings.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript)
 
