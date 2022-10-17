@@ -22,6 +22,12 @@ Welcome, here you find code challenges for Javascript language from CodeWars.com
 
 * `How good are you really?` || [`How_good_are_you_really.js`  ](/Code-Js/How_good_are_you_really.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript)
 
+* `Sum of positive` || [`Sum_of_positive.js`  ](/Code-Js/Sum_of_positive.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 
+* `Square(n) Sum` || [`Square(n)_Sum.js`  ](/Code-Js/Square(n)_Sum.js) Site [CodeWars, js  ](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
+
+* `Beginner Series #4 Cockroach` || [`Beginner_Series_4_Cockroach.js`  ](/Code-Js/Beginner_Series_4_Cockroach.js) Site [CodeWars, js  ](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/javascript)
+
+* `Removing Elements` || [`Removing_Elements.js`  ](/Code-Js/Removing_Elements.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)
 
 
