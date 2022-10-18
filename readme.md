@@ -30,4 +30,11 @@ Welcome, here you find code challenges for Javascript language from CodeWars.com
 
 * `Removing Elements` || [`Removing_Elements.js`  ](/Code-Js/Removing_Elements.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)
 
+* `Calculate BMI` || [`Calculate_BMI.js`  ](/Code-Js/Calculate_BMI.js) Site [CodeWars, js  ](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
+
+* `MakeUpperCase` || [`MakeUpperCase.js`  ](/Code-Js/MakeUpperCase.js) Site [CodeWars, js  ](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript)
+
+* `Switch it Up!` || [`Switch_it_Up.js`  ](/Code-Js/Switch_it_Up.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/javascript)
+
+
 
