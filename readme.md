@@ -36,5 +36,11 @@ Welcome, here you find code challenges for Javascript language from CodeWars.com
 
 * `Switch it Up!` || [`Switch_it_Up.js`  ](/Code-Js/Switch_it_Up.js) Site [CodeWars, js  ](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/javascript)
 
+* `Volume of a Cuboid` || [`Volume_of_a_Cuboid.js`  ](/Code-Js/Volume_of_a_Cuboid.js) Site [CodeWars, js  ](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript)
+
+* `Calculate average` || [`Calculate_average.js`  ](/Code-Js/Calculate_average.js) Site [CodeWars, js  ](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)
+
+
+
 
 
