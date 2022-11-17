@@ -5,7 +5,7 @@
 ## Sobre
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem JavaScript na plataforma CodeWars.
 
-Welcome, here you find code challenges for Javascript language from CodeWars.com
+Welcome, here you find code challenges for Javascript language from CodeWars.com 
 
 # Kata
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
